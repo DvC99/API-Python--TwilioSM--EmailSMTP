@@ -1,0 +1,5 @@
+# Ignora las carpetas
+__pycache__
+Modulo3
+# Ignora los archivos con exten
+.env
